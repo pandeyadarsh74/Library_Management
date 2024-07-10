@@ -1,0 +1,25 @@
+
+
+  
+ .th, .td {
+    border-right: 1px solid blue;
+    border-left:1px blue;
+}
+
+.th:last-child, .td:last-child {
+    border-right: blue;
+    border-left: blue;
+     height: 80px;
+}
+
+  .th, .td {
+    padding: 8px;
+   
+    text-align: left;
+    border-bottom: 1px solid blue;
+  }
+  
+  .th {
+    background-color:brown;
+  }
+  
